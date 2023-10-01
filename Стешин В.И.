@@ -1,0 +1,91 @@
+commit 8aec130afd39371a2b8e96b0f1a8f2d99ea0da6f (HEAD -> PRERELEASE, origin/PRERELEASE)
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:46:44 2023 +0500
+
+    Коммит prerelease.txt
+
+commit 7992fed8bd2cf3b50689870dd97137e4d653d31b (origin/master, origin/TEST, master, TEST)
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:45:23 2023 +0500
+
+    Коммит test.txt
+
+commit 4b79da62950d2b1e19125c76984af66d28263882
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:40:51 2023 +0500
+
+    Мой четвертый коммит
+
+commit 9da73892ca646f614dae085270d124e812f27874
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:34:48 2023 +0500
+
+    Revert "Мой второй коммит, изменен"
+
+    This reverts commit 274ad5659d654bde5748542804d0d98e8ee209e4.
+
+commit 9092c4ee48395b931bae02c0aa82b8ead05e485a
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:30:06 2023 +0500
+
+    Мой третий коммит
+
+commit 274ad5659d654bde5748542804d0d98e8ee209e4
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:25:35 2023 +0500
+
+    Мой второй коммит, изменен
+
+commit 9bdb43bc81181fe548a4763bb7736432cf81c22c
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:21:42 2023 +0500
+
+    Мой первый коммит
+(END)
+Date:   Sun Oct 1 14:34:48 2023 +0500
+
+    Revert "Мой второй коммит, изменен"
+
+    This reverts commit 274ad5659d654bde5748542804d0d98e8ee209e4.
+
+commit 9092c4ee48395b931bae02c0aa82b8ead05e485a
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:30:06 2023 +0500
+
+    Мой третий коммит
+
+commit 274ad5659d654bde5748542804d0d98e8ee209e4
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:25:35 2023 +0500
+
+    Мой второй коммит, изменен
+
+commit 9bdb43bc81181fe548a4763bb7736432cf81c22c
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:21:42 2023 +0500
+
+    Мой первый коммит
+(END)
+Date:   Sun Oct 1 14:34:48 2023 +0500
+
+    Revert "Мой второй коммит, изменен"
+
+    This reverts commit 274ad5659d654bde5748542804d0d98e8ee209e4.
+
+commit 9092c4ee48395b931bae02c0aa82b8ead05e485a
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:30:06 2023 +0500
+
+    Мой третий коммит
+
+commit 274ad5659d654bde5748542804d0d98e8ee209e4
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:25:35 2023 +0500
+
+    Мой второй коммит, изменен
+
+commit 9bdb43bc81181fe548a4763bb7736432cf81c22c
+Author: Vladislav Steshin <mr.vlad2@yandex.ru>
+Date:   Sun Oct 1 14:21:42 2023 +0500
+
+    Мой первый коммит
